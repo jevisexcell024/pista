@@ -1,8 +1,8 @@
 @media(max-width: 600px){
-  body{
-    overflow-x: hidden;
-    width: 100%;
-  }
+.hidden{
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
     .footer-col{
       width:50%;
       margin-bottom: 30px;
